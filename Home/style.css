@@ -866,7 +866,7 @@ hr {
   padding-top: 20px;
   font-size: 40px;
   background: -webkit-linear-gradient(#eee, #333A56);
-  background-clip: text;
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 /* Text and Content in Center */
